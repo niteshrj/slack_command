@@ -1,0 +1,7 @@
+✔ create a /add command for slack. @done(2017-12-29 01:04)
+✔ seperate game-name and game-link from onData text. @done(2017-12-29 23:35)
+✔ find a way to save this data. @done(2017-12-29 23:35)
+✔ Link the dropbox folder to Game data from the slash command. @done(2018-01-03 09:22)
+✔ find a way to save data to this folder. @done(2018-01-03 09:22)
+✔ Get the data from this dropbox folder initially if the server crashes. @done(2018-01-03 09:23)
+☐ 
